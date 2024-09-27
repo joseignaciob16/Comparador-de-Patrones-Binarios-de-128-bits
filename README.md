@@ -1,1 +1,0 @@
-# Comparador-de-Patrones-Binarios-de-128-bits
